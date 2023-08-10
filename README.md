@@ -5,7 +5,7 @@ The Generative AI Architecture was created to help entrepreneurs to build new GA
 
 ## GAIA Canvas
 
-<a href=" https://app.diagrams.net/?#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fwiki%2Fsantiag0aragon%2Fgaia%2Ftemplates%2Fgaia-canvas.png" target="_blank">Template </a>
+<a href="https://app.diagrams.net/?#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fwiki%2Fsantiag0aragon%2Fgaia%2Ftemplates%2Fgaia-canvas.png" target="_blank">Template </a>
 ![Alt](gaia-canvas/images/gaia-1.0.png)
 
 
